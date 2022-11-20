@@ -1,0 +1,230 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main {
+    width: 100%;
+    height:80vh;
+   background-color: wheat;
+   border-bottom: 5px;
+   border-style: solid;
+   border-left: 0px;
+   border-top: 0px;
+   border-right: 0px;
+}
+.main .navbar {
+    width: 100%;
+    height: 5vh;
+    
+    background-color: white;
+    border: 5px;
+    border-style: solid;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+   
+}
+.main .navbar ul{
+list-style-type: none;
+
+
+}
+.main .navbar ul li a {
+    float: right;
+    padding: 10px ;
+    color: black ;
+    font-size: 25px;
+    font-weight: 520;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 30px;
+    text-decoration: none;
+}
+.main .navbar ul  .head{
+   color: black;
+   position: absolute;
+   font-weight: bold;
+   margin-left: 40px;
+   font-size: 30px;
+}
+.main .img{
+height: 40%;
+width: 40%;
+margin: 150px 700px;
+ 
+
+}
+.main .img img{
+    height: 100%;
+    width: 100%;
+     
+}
+.main .img h1{
+font-size: 60px;
+font-weight: bold;
+color: black;
+margin-top: -350px;
+margin-left: -600px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ 
+}
+.main .img p{
+    font-size: 24px;
+    font-weight: 200;
+    color: black;
+    margin-top: -10px;
+    margin-left: -590px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+    }
+    .main .img span{
+   font-weight: bold; 
+    
+    }
+    .main .b1{
+color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 18px;
+padding: 15px;
+font-weight: 600;
+background-color: ghostwhite;
+border: 3px;
+border-style: solid;
+margin-left: 110px;
+margin-top: -400px;
+text-decoration: none;
+
+
+    }
+    .main .b2{
+        color: black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 18px;
+        padding: 15px;
+        font-weight: 600;
+        background-color: wheat;
+        border: 3px;
+        border-style: solid;
+        margin-left:40px;
+        margin-top: -400px;
+        text-decoration: none;
+
+            }
+ .layout{
+width: 100%;
+height: 100vh;
+background-color: white;
+ 
+            }
+.layout h1{
+text-align: center;
+padding-top: 60px;
+font-size: 40px;
+font-weight: bold;
+            }
+            .layout .img2{
+
+height: 15%;
+width: 7.5%;
+padding-top: 90px;
+padding-left: 300px;
+
+            }
+            .layout .img2 img{
+                height: 100%;
+                width: 100%;
+                
+            }
+            .layout  .pp{
+                color: black;
+                padding-left: 490px;
+                font-size: 25px;
+margin-top: -80px;   
+text-transform: initial;
+ }
+ .layout .img3{
+
+    height: 15%;
+    width: 7.5%;
+    margin-top:150px;
+    padding-left: 300px;
+    
+                }
+                .layout .img3 img{
+                    height: 100%;
+                    width: 100%;
+                    
+                }
+            
+            .layout  .pp3{
+                color: black;
+                padding-left: 490px;
+                font-size: 25px;
+                margin-top: -90px;
+ 
+            }
+            .layout .img4{
+
+                height: 15%;
+                width: 7.5%;
+                margin-top:-370px;
+                padding-left: 1000px;
+                
+                            }
+                            .layout .img4 img{
+                                height: 100%;
+                                width: 100%;
+                                
+                            }
+                            .layout  .pp4{
+                                color: black;
+                                padding-left: 1200px;
+                                font-size: 25px;
+                                margin-top: -90px;
+                 
+                            }
+                            .layout .img5{
+
+                                height: 15%;
+                                width: 7.5%;
+                                margin-top: 140px;
+                                padding-left: 1000px;
+                                
+                                            }
+                                            .layout .img5 img{
+                                                height: 100%;
+                                                width: 100%;
+                                                
+                                            }
+                                        
+                                        .layout  .pp5{
+                                            color: black;
+                                            padding-left: 1200px;
+                                            font-size: 25px;
+margin-top: -90px;
+                                        }
+                                          .end
+                                        {
+                                            color: black
+                                            ;
+                                            text-align: center;
+                                            margin-top: -190px;
+                                            font-size: 40px;
+
+                                        }
+                                        .b3{
+
+
+
+                                            border: black;
+                                            border-style: solid;
+                                         padding: 20px;
+                                            text-align: center;
+                                            margin-left: 860px;
+                                            margin-bottom: -900px;
+
+                                            font-size: 25px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                        }
+                                        
